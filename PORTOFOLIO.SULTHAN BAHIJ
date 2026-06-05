@@ -1,0 +1,21 @@
+</style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>Nama Kamu</h1>
+        <p>✨ Portofolio Pribadi ✨</p>
+
+        <div class="info">
+            <p><span class="label">Nama:</span> Nama Lengkap Kamu</p>
+            <p><span class="label">Alamat:</span> Alamat Rumah Kamu</p>
+            <p><span class="label">Tempat, Tanggal Lahir:</span> Kota, 01 Januari 2000</p>
+        </div>
+
+        <div class="footer">
+            © 2026 Portofolio Saya
+        </div>
+    </div>
+
+</body>
+</html>
